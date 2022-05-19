@@ -1,0 +1,7 @@
+
+<h1>Beers</h1>
+<div [@fadeInOut]>
+    <mat-card class="clickable" *ngFor="let card of cards"><a [routerLink]="['/card', card.id]" class="animate_animated animate_bounce animate_bounce animate_fadeIn info">{{card.id}} - {{card.name}}</a></mat-card>
+</div>
+
+ 

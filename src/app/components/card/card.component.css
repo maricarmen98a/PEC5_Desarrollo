@@ -1,0 +1,60 @@
+mat-card {
+    margin-top: 50px;
+    max-width: 700px;
+    max-height: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    display: flex;
+    justify-content: center;
+}
+mat-card:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+mat-card-image {
+    padding: 15px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.back {
+    padding-top: 30%;
+    padding-left: 50px;
+}
+.button1 {
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid #4e36ed;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#201ad8;
+    text-align:center;
+    transition: all 0.2s;
+}
+.button1:hover {
+    color:#000000;
+    background-color:rgb(175, 219, 253);
+}
+.button-show {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.details {
+    padding: 20px;
+    margin: 10%;
+    margin-top: 0;
+}
+.alcVolume {
+    margin-bottom: 40px;
+}

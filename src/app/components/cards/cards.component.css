@@ -1,0 +1,17 @@
+.mat-card {
+    background-color:rgb(175, 219, 253);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.mat-card:hover {
+    transform: scale(1.1);
+}
