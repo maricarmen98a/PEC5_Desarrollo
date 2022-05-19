@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1652980600536,
-  "index": "https://maricarmen98a.github.io/PEC5_Desarrollo/index.html",
+  "timestamp": 1652975499776,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/favicon.ico",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/index.html",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/main.a70021c5ad24aa96.js",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/manifest.webmanifest",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/polyfills.f16f0282260b1dc0.js",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/runtime.4308f279524df87b.js",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/styles.5c50b1a4fb966153.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.ba6c8bc743ecb623.js",
+        "/manifest.webmanifest",
+        "/polyfills.f16f0282260b1dc0.js",
+        "/runtime.4308f279524df87b.js",
+        "/styles.5c50b1a4fb966153.css"
       ],
       "patterns": []
     },
@@ -29,15 +29,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/css/animate.css",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-128x128.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-144x144.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-152x152.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-192x192.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-384x384.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-512x512.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-72x72.png",
-        "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-96x96.png"
+        "/assets/css/animate.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -59,22 +59,22 @@
     }
   ],
   "hashTable": {
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/css/animate.css": "1a1f22a40beae7a4bf83ff81f7c6b8be7cfd7e59",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/index.html": "394557250b3dc0036d8c7a32433205508b5e18cf",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/main.a70021c5ad24aa96.js": "8fc1c784d8ffd47573a925014de377845f71752a",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/manifest.webmanifest": "1d2aa1b0beb466db1d9f2be615e0b7b5f1c140df",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/polyfills.f16f0282260b1dc0.js": "3038348be607a3fb13426601cf3aac192f7222fa",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/runtime.4308f279524df87b.js": "5936b829f465db91eab9f3e72b40081b404d912b",
-    "https://maricarmen98a.github.io/PEC5_Desarrollo/styles.5c50b1a4fb966153.css": "67a071a5834efa94999a13bd755a90d9c74e93c2"
+    "/assets/css/animate.css": "1a1f22a40beae7a4bf83ff81f7c6b8be7cfd7e59",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "907d50264d221544469905d3e7976922ee0ad08d",
+    "/main.ba6c8bc743ecb623.js": "89e7a43c79034b93c79685251a7b1b5fd7177835",
+    "/manifest.webmanifest": "1d2aa1b0beb466db1d9f2be615e0b7b5f1c140df",
+    "/polyfills.f16f0282260b1dc0.js": "3038348be607a3fb13426601cf3aac192f7222fa",
+    "/runtime.4308f279524df87b.js": "5936b829f465db91eab9f3e72b40081b404d912b",
+    "/styles.5c50b1a4fb966153.css": "67a071a5834efa94999a13bd755a90d9c74e93c2"
   },
   "navigationUrls": [
     {
